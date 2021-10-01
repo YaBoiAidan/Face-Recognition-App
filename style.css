@@ -1,0 +1,23 @@
+body 
+{
+    background-color: rgb(34, 31, 31);
+    color: aliceblue;
+}
+
+.heading 
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera 
+{
+    border: 2px dashed aliceblue;
+    width: 500px;
+    height: 300px;
+}
+
+#result_object_name,#result_object_accuracy
+{
+    color: orange;
+}
